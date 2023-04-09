@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.labelProps {
+  color: #f1f5f9;
+  font-family: Roboto;
+  font-size: 16px;
+}
+.config-con {
+  margin: 0px;
+  padding: 0px;
+}
+
+.config-children {
+  margin-bottom: 5px;
+}
+.layout-container {
+  width: 100vw;
+  height: 160px;
+  background-color: #475569;
+  padding: 10px 65px;
+  margin-bottom: 20px;
+}
+.layout-heading {
+  color: #f1f5f9;
+  font-family: Roboto;
+  font-size: 28px;
+  margin: 0px;
+  padding: 10px 0px;
+}

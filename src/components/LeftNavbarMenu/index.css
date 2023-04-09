@@ -1,0 +1,15 @@
+.column-container {
+  height: 400px;
+  width: 200px;
+  background-color: #cbd5e1;
+  margin: 0px;
+}
+.column-heading {
+  font-size: 16px;
+  color: #475569;
+  font-weight: 700;
+}
+li {
+  color: #475569;
+  list-style-type: none;
+}
